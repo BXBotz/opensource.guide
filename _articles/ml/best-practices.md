@@ -1,15 +1,15 @@
 ---
-lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+lang: ml
+title: പരിപാലകർക്കായുള്ള മികച്ച പരിശീലനങ്ങൾ
+description: നിങ്ങളുടെ കമ്മ്യൂണിറ്റിയെ സ്വാധീനിക്കുന്നതിനായി ഡോക്യുമെന്റ് പ്രക്രിയകളിൽ നിന്ന് നിങ്ങളുടെ ജീവിതം ഒരു ഓപ്പൺ സോഴ്സ് പരിപാലകനെപ്പോലെ എളുപ്പമാക്കുന്നു.
 class: best-practices
 toc:
-  what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
-  documenting-your-processes: "Documenting your processes"
-  learning-to-say-no: "Learning to say no"
-  leverage-your-community: "Leverage your community"
-  bring-in-the-robots: "Bring in the robots"
-  its-okay-to-hit-pause: "It’s okay to hit pause"
+  what-does-it-mean-to-be-a-maintainer: "ഒരു പരിപാലകനാകുന്നത് എന്താണ് അർത്ഥമാക്കുന്നത്?"
+  documenting-your-processes: "നിങ്ങളുടെ പ്രോസസ്സുകൾ രേഖപ്പെടുത്തുന്നു"
+  learning-to-say-no: "ഇല്ല എന്ന് പറയാൻ പഠിക്കുക"
+  leverage-your-community: "നിങ്ങളുടെ കമ്മ്യൂണിറ്റിയെ പ്രയോജനപ്പെടുത്തുക"
+  bring-in-the-robots: "റോബോട്ടുകളിൽ കൊണ്ടുവരിക"
+  its-okay-to-hit-pause: "താൽക്കാലികമായി നിർത്താൻ കുഴപ്പമില്ല"
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
