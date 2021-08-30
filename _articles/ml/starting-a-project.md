@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: ml
 title: ഒരു ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റ് ആരംഭിക്കുന്നു
 description: ഓപ്പൺ സോഴ്സിന്റെ ലോകത്തെക്കുറിച്ച് കൂടുതലറിയുക, നിങ്ങളുടെ സ്വന്തം പ്രോജക്റ്റ് സമാരംഭിക്കാൻ തയ്യാറാകുക.
 class: തുടക്കക്കാരില്
@@ -15,7 +15,7 @@ related:
   - കണ്ടെത്തൽ
   - നിർമ്മാണം
 ---
-lang: ml
+lang: en
 title: Starting an Open Source Project
 description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
