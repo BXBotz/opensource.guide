@@ -1,5 +1,21 @@
 ---
 lang: en
+title: ഒരു ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റ് ആരംഭിക്കുന്നു
+description: ഓപ്പൺ സോഴ്സിന്റെ ലോകത്തെക്കുറിച്ച് കൂടുതലറിയുക, നിങ്ങളുടെ സ്വന്തം പ്രോജക്റ്റ് സമാരംഭിക്കാൻ തയ്യാറാകുക.
+class: തുടക്കക്കാരില്
+toc:
+  the-what-and-why-of-open-source: "എന്താണ് തുറന്ന ഉറവിടം"
+  should-i-launch-my-own-open-source-project: "ഞാൻ എന്റെ സ്വന്തം ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റ് സമാരംഭിക്കണോ?"
+  launching-your-own-open-source-project: "നിങ്ങളുടെ സ്വന്തം ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റ് സമാരംഭിക്കുന്നു"
+  naming-and-branding-your-project: "നിങ്ങളുടെ പ്രോജക്റ്റ് നാമകരണം ചെയ്ത് ബ്രാൻഡിംഗ്"
+  your-pre-launch-checklist: "നിങ്ങളുടെ പ്രീ-ലോഞ്ച് ചെക്ക്ലിസ്റ്റ്"
+order: 2
+image: /assets/images/cards/beginner.png
+related:
+  - കണ്ടെത്തൽ
+  - നിർമ്മാണം
+---
+lang: ml
 title: Starting an Open Source Project
 description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
