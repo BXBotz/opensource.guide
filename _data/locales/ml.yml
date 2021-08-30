@@ -1,0 +1,31 @@
+ml:
+  locale_name: മലയാളം
+  nav:
+    about: ഇതിനെ കുറിച്ച്
+    contribute: സംഭാവന നല്കുക
+  index:
+    lead: ഓപ്പൺ സോഴ്സ് സോഫ്റ്റ്വെയർ നിങ്ങളെപ്പോലെ ആളുകൾ നിർമ്മിക്കുന്നു.നിങ്ങളുടെ പ്രോജക്റ്റ് സമാരംഭിക്കാമെന്നും വളർത്താമെന്നും മനസിലാക്കുക.
+    opensourcefriday: ഇത് വെള്ളിയാഴ്ചയാണ്!നിങ്ങൾ ഉപയോഗിക്കുന്ന സോഫ്റ്റ്വെയറിനും പ്രണയത്തിനും സംഭാവന നൽകുന്ന കുറച്ച് മണിക്കൂർ നിക്ഷേപിക്കുക
+  article:
+    table_of_contents: ഉള്ളടക്ക പട്ടിക
+    back_to_all_guides: എല്ലാ ഗൈഡുകളിലേക്കും മടങ്ങുക
+    related_guides: അനുബന്ധ ഗൈഡുകൾ
+  footer:
+    contribute:
+      heading: സംഭാവന
+      description: ഒരു നിർദ്ദേശം നൽകാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?ഈ ഉള്ളടക്കം ഓപ്പൺ സോഴ്സ് ആണ്.അത് മെച്ചപ്പെടുത്താൻ ഞങ്ങളെ സഹായിക്കുക.
+      button: സംഭാവന
+    subscribe:
+      heading: സമ്പർക്കം പുലർത്തുക
+      description: ജിത്തിബിന്റെ ഏറ്റവും പുതിയ ഓപ്പൺ സോഴ്സ് നുറുങ്ങുകളും ഉറവിടങ്ങളും ആദ്യം കേൾക്കുക.
+      label: ഈ - മെയില് വിലാസം
+      button: സബ്സ്ക്രൈബുചെയ്യുക
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] with [love] by [github] and [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: friends
